@@ -1,0 +1,77 @@
+#principal{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+    color: #280
+}
+table{
+    border-collapse: collapse;
+    border: solid, 1px;
+    border-color: black;
+    width: 766px;
+    height: 36px;
+    background-color: #000033;
+}
+.titulo{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    color: #FFF;
+}
+.origem{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    color: #280;
+    background-color: #FFF;
+}
+.resumo{
+    font-family: Arial;
+    font-size: 12px;
+    background-color: #FFF;
+}
+#rodape{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    background-color: #CBF;
+}
+a:link{
+    color: #0000FF;
+}
+a:visited{
+    color: #DDC71A;
+}
+a:active{
+    color: #AC0B44;
+}
+a:hover{
+    color: #FF0000;
+    font-weight: bold;
+}
+#ptitulo{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    color: #006;
+}
+#presumo{
+    font-family: Arial;
+    font-style: italic;
+    font-size: 20px;
+}
+#pautor{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    color: #666;
+}
+.ptexto{
+    font-family: Arial;
+    font-size: 15px;
+}

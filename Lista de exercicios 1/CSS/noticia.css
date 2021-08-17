@@ -1,0 +1,23 @@
+#ptitulo{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    color: #006;
+}
+#presumo{
+    font-family: Arial;
+    font-style: italic;
+    font-size: 20px;
+}
+#pautor{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    color: #666;
+}
+.ptexto{
+    font-family: Arial;
+    font-size: 15px;
+}
